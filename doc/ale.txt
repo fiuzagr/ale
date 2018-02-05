@@ -125,6 +125,7 @@ CONTENTS                                                         *ale-contents*
       prettier............................|ale-javascript-prettier|
       prettier-eslint.....................|ale-javascript-prettier-eslint|
       prettier-standard...................|ale-javascript-prettier-standard|
+      sonarjs.............................|ale-javascript-sonarjs|
       standard............................|ale-javascript-standard|
       xo..................................|ale-javascript-xo|
     json..................................|ale-json-options|
@@ -373,7 +374,7 @@ Notes:
 * HTML: `alex`!!, `HTMLHint`, `proselint`, `tidy`, `write-good`
 * Idris: `idris`
 * Java: `checkstyle`, `javac`, `google-java-format`, `PMD`
-* JavaScript: `eslint`, `flow`, `jscs`, `jshint`, `prettier`, `prettier-eslint`, `prettier-standard`, `standard`, `xo`
+* JavaScript: `eslint`, `flow`, `jscs`, `jshint`, `prettier`, `prettier-eslint`, `prettier-standard`, `sonarjs`!!, `standard`, `xo`
 * JSON: `fixjson`, `jsonlint`, `jq`, `prettier`
 * Kotlin: `kotlinc`!!, `ktlint`!!, `languageserver`
 * LaTeX (tex): `alex`!!, `chktex`, `lacheck`, `proselint`, `redpen`, `vale`, `write-good`

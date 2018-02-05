@@ -249,6 +249,31 @@ g:ale_javascript_prettier_standard_use_global
   See |ale-integrations-local-executables|
 
 
+===============================================================================
+sonarjs                                                *ale-javascript-sonarjs*
+
+g:ale_javascript_sonarjs_executable       *g:ale_javascript_sonarjs_executable*
+                                          *b:ale_javascript_sonarjs_executable*
+  Type: |String|
+  Default: `'sonarjs'`
+
+  See |ale-integrations-local-executables|
+
+
+g:ale_javascript_sonarjs_exclusions       *g:ale_javascript_sonarjs_exclusions*
+                                          *b:ale_javascript_sonarjs_exclusions*
+  Type: |String|
+  Default: `''`
+
+  This variable can be set to pass additional exclusions glob files to sonarjs.
+
+
+g:ale_javascript_sonarjs_use_global       *g:ale_javascript_sonarjs_use_global*
+                                          *b:ale_javascript_sonarjs_use_global*
+  Type: |Number|
+  Default: `0`
+
+  See |ale-integrations-local-executables|
 
 
 ===============================================================================
